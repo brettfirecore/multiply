@@ -1,3 +1,4 @@
+// Package multiply with a return function
 package multiply
 
 // Multiply returns the product of two integers.
